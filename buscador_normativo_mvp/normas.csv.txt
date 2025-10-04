@@ -1,0 +1,11 @@
+norma,tipo,jurisdiccion,año,descripcion
+Ley 24.051,Ambiental,Nacional,1992,Gestión integral de residuos peligrosos
+Ley 25.675,Ambiental,Nacional,2002,Ley General del Ambiente - presupuestos mínimos
+Ley 26.639,Ambiental,Nacional,2010,Preservación de glaciares y ambiente periglacial
+Decreto 674/89,Ambiental,Nacional,1989,Regula vertidos industriales al agua
+Ley 27.592,Ambiental,Nacional,2020,Ley Yolanda - Capacitación ambiental para funcionarios públicos
+Ley 9.526,Ambiental,Provincial - Córdoba,2007,Protección del ambiente en la provincia
+Ley 8.916,Ambiental,Provincial - Mendoza,2007,Gestión ambiental y evaluación de impacto ambiental
+Ley 10.208,Ambiental,Provincial - San Juan,2014,Gestión ambiental minera provincial
+Resolución 163/18,Ambiental,Nacional,2018,Residuos peligrosos - Actualización de registros
+Ley 26.331,Ambiental,Nacional,2007,Presupuestos mínimos de protección de bosques nativos
